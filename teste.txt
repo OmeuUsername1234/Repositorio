@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-commit para main
-=======
-alterado ramo1.
->>>>>>> 6d5297e (alteração no ficheiro texte.txt no ramo1)
+conflito resolvido
